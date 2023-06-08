@@ -1,0 +1,21 @@
+nagois -is a enrasture montiring tool,we are montiring the supoorting team
+
+diffrent types of monrirting tool
+*nagois core and nagois xi
+*nagois core is free-------
+but nagois xi - is not free. permiuum
+*mange engine appilcation mgr
+*dynatrance
+*splmk
+*nagois
+*prometheous-
+*grafana-
+
+-----------------------
+ELK + KIBANA-elatsic search
+
+log passing tool -getting date for 
+extracting the date so that the past value can be used as inpute another login 
+processing 
+
+
